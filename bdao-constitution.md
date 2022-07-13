@@ -46,7 +46,7 @@ We operate transparently and build trust through radically public discourse and 
 
 We put decision-making into the hands of the collective. We create legitimacy through an environment where the best ideas win.
 
-### Culture
+#### Culture
 
 We reward action and embrace risk. We empower our community to continually drive new initiatives by providing a space to self-organize and quickly move from idea to action.
 
