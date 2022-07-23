@@ -22,3 +22,9 @@ Other tokenized community manuals we can draw from:
 5.  [CityDAO Charter v.1](https://docs.google.com/document/d/13AnUxFd7i_81AF_trPoD9zGTNoP8WiIuvy1hah0QBt8/edit#heading=h.3xn7xv16fdzb)
 6.  [CultDAO Manifesto](https://cultdao.io/manifesto.pdf)
 7.  [LogosDAO](https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf)
+
+Research and justification:
+
+1. https://constitutions.metagov.org/guide
+2. https://github.com/metagov/constitution-template
+3. https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view
