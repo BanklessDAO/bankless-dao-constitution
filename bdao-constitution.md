@@ -68,7 +68,7 @@ Full DAO members are those who have accumulated the requisite 35,000 BANK and ar
 
 Level 2 community members possess at least 35,000 BANK and have earned special recognition from their peers as valuable members of the DAO. L2 members are expected to be actively interested and engaged in governance and the overall health of the DAO as a community. Promotion to L2 status occurs through the following process:
 
-1.  Any Level 1 can nominate their peer to join Level 2 in the “[hype-and-recognition](https://discord.com/channels/834499078434979890/846447455905251378)” Discord channel. You cannot nominate yourself. You must be a Level 1 to qualify for Level 2.
+1.  Any Level 1 can nominate their peer to join Level 2 in the "[polls](https://discord.com/channels/834499078434979890/842815095221387265)" Discord channel. You cannot nominate yourself. You must be a Level 1 to qualify for Level 2.
 2.  Any Level 2 Contributor must second your nomination to get to the voting stage.
 3.  A 48-hour poll will take place to vote on whether to make the member a Contributor. Anyone may vote. See: [How to Use the Poll Bot](https://www.notion.so/bankless/Discord-How-to-use-the-Poll-Bot-sesh-fyi-1c159558c1454900a111da89198629ff)
 4.  The poll must include the following information:
