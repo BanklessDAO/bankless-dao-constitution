@@ -16,13 +16,11 @@ What problem or opportunity does this proposal target? What are the driving fact
 
 # BDIP SPECIFICATION
 
-Explain the textual change to the community handbook in detail.   
- 
+Explain the textual change to the community handbook in detail.   
 
 <table><tbody><tr><td><strong>Current Form</strong></td><td><strong>Proposal</strong></td></tr><tr><td>“Old text in section X”</td><td>“Revision in section X”</td></tr></tbody></table>
 
-Include a detailed breakdown of the rationale and research into the proposal and any other comparable DAO communities who have tried the same.   
- 
+Include a detailed breakdown of the rationale and research into the proposal and any other comparable DAO communities who have tried the same.   
 
 Include the expected [semantic versioning](https://semver.org/) scope changes made by the proposed revision. 
 
