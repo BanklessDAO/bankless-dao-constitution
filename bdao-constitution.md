@@ -151,7 +151,7 @@ Governance starts with soft consensus and progresses towards formal consensus th
 If the community has expressed support and interest in the previous step, the next step is to draft a formal proposal. Proposals fall into one of two categories and correspond to the following templates:
 
 1.  [Grants Request](https://www.notion.so/bankless/Bankless-DAO-Formal-Proposal-Template-c60d797ceb5b4d0daceb80f72bb1ed2e)
-2.  [Improvement Proposals (bDIP)](https://docs.google.com/document/d/1UDmH0mJtTNTBzLxJSbIJu7WsCvRhaq1t-_tSjYGHH70/edit#heading=h.tb8tmd3knk0r)
+2.  [Improvement Proposals (bDIP)](https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bDIP-template.md)
 
 As the names suggest, the Grants Request proposal template should be used to request funds and the bDIP template should be used to propose changes to the contents of this document. Approved bDIPs result in official changes to this handbook and redistribution to the community with appropriately updated semantic [versioning numbering](https://www.baeldung.com/cs/semantic-versioning) where:  
 
