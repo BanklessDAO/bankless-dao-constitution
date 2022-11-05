@@ -2,12 +2,17 @@
 
 This Constitution and Community Handbook is BanklessDAOs canonical source for organizational structure and governance. Updates can be made to it via the improvement proposal detailed within. The background and motivation for how these things came to be can be pieced together from the following documents.
 
+Ongoing constitution work and education: 
+
+1.  [GSE Notion Page](https://www.notion.so/bankless/GSE-Initiative-f69b2a80dd8749a7bc77269f6739aef3)
+2.  [Academy Course](https://academy.bankless.community/lessons/banklessdao-constitution)
+
 Sources:
 
 1.  [https://forum.bankless.community/t/dao-constitution-improvement-proposal-standard/3676](https://forum.bankless.community/t/dao-constitution-improvement-proposal-standard/3676)
 2.  [https://forum.bankless.community/t/constitution-bdip-standard-part-2/3740](https://forum.bankless.community/t/constitution-bdip-standard-part-2/3740)
 3.  [Google doc working draft](https://docs.google.com/document/d/1HI21XawPYzPtct2LUg1nIvLU2iuYTTpYnm_DOAhIOi0/edit?usp=sharing)
-4.  [\[Draft 1\] BanklessDAO Season 1 Proposal](https://forum.bankless.community/t/draft1-banklessdao-season-1-proposal/904) 
+4.  [\[Draft 1\] BanklessDAO Season 1 Proposal](https://forum.bankless.community/t/draft1-banklessdao-season-1-proposal/904)
 5.  [\[Draft 3\] Firming Up Governance](https://forum.bankless.community/t/draft-3-final-firming-up-governance/2155)
 6.  [Main Pages FINAL](https://docs.google.com/document/d/1IGOKAj18mo8FU1oLfciBbXb8GMQELvwXk2p2YCILQ1M/edit#heading=h.z4xt70m3p363) (Extensive writing done by the writers guild)
 7.  [Sub Pages FINAL](https://docs.google.com/document/d/17GyFQMUUxpJDKu09T9_LnY_XEkjkSsA_maC6IBvPlUg/edit#heading=h.jln76qk83yzl) (Extensive writing done by the writers guild)
@@ -25,6 +30,6 @@ Other tokenized community manuals we can draw from:
 
 Research and justification:
 
-1. https://constitutions.metagov.org/guide
-2. https://github.com/metagov/constitution-template
-3. https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view
+1.  https://constitutions.metagov.org/guide
+2.  https://github.com/metagov/constitution-template
+3.  https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view
