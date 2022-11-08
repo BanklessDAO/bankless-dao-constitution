@@ -2,10 +2,11 @@
 
 This Constitution and Community Handbook is BanklessDAOs canonical source for organizational structure and governance. Updates can be made to it via the improvement proposal detailed within. The background and motivation for how these things came to be can be pieced together from the following documents.
 
-Ongoing constitution work and education: 
+Ongoing constitution work and education:
 
 1.  [GSE Notion Page](https://www.notion.so/bankless/GSE-Initiative-f69b2a80dd8749a7bc77269f6739aef3)
 2.  [Academy Course](https://academy.bankless.community/lessons/banklessdao-constitution)
+3.  [GSE Recommendation List](https://forum.bankless.community/t/gse-deliverables-cohort-1/4331) \[Cohort 1\]
 
 Sources:
 
