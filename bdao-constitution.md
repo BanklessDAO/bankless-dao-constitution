@@ -179,7 +179,7 @@ Funds are released from this treasury in one of three ways: Seasonal budgets, Mi
 
 ### Seasonal Budgets
 
-New seasons are initiated by all guilds and projects submitting proposals for funding. If these proposals pass Forum approval, they are packaged together in a single seasonal budget approval Snapshot vote. If this budget is approved, then the DAO multi-signers are responsible for issuing disbursements in line with the approved budget.
+Before new seasons begin, all previously funded guilds and projects must submit a funding proposal to the forum for the Grants Committee to review. Funding proposals that pass the Grants Committee review process are packaged together in a single seasonal budget Snapshot vote. If this budget is approved then the DAO multi-signers are responsible for issuing disbursements in line with the approved budget.
 
 ### Mid-Season Grants
 
