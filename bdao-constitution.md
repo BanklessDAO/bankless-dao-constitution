@@ -1,6 +1,6 @@
 # **BanklessDAO Constitution & Community Handbook**
 
-Version 1.0
+Version 1.1.1
 
 ## Preamble
 
@@ -163,11 +163,11 @@ As the names suggest, the Grants Request proposal template should be used to req
 
 Formal proposals should be posted on the [BanklessDAO Forum](https://forum.bankless.community/) under the appropriate category and feedback and comments should be responded to by proposal authors. To maximize visibility and transparency, proposal authors should also be available in Community Calls to discuss the details of the proposals under consideration. 
 
-Forum voting leverages one vote per user and is not token-weighted or gated. Forum proposals require 70% approval to pass to successive stages of governance. Proposals must be posted for one week unless the request exceeds 1M BANK. In these instances, they must be posted for two weeks. Forum quorum is the minimum number of voters that need to be present for the vote to be valid and is listed in the following table. For example, if your Forum post is asking for 50,000 BANK or less, only 25 voters need to cast their votes for the vote to be valid.
+Proposal votes are one vote per user and are not token-weighted. Grant proposals must meet the quorum requirements set by the Grants Committee (available on their [Notion page](https://www.notion.so/bankless/Grants-Committee-Procedures-4e2c62bb890d47d2bdba12adee27fce8)), which may be adjusted seasonally at their discretion.
 
-<table><tbody><tr><td><strong>Requested Bank</strong></td><td><strong>Forum Quorum</strong></td></tr><tr><td>&lt; 50k BANK</td><td>25</td></tr><tr><td>50k - 250k BANK</td><td>31</td></tr><tr><td>250k - 500k BANK</td><td>40</td></tr><tr><td>500k - 1M BANK</td><td>51</td></tr><tr><td>&gt; 1M BANK</td><td>63</td></tr><tr><td>Governance (Major)</td><td>63</td></tr><tr><td>Governance (Minor)</td><td>51</td></tr><tr><td>Governance (Patch)</td><td>40</td></tr></tbody></table>
+Governance quorums are listed below.
 
-\[[See Snapshot](https://snapshot.org/#/banklessvault.eth/proposal/0x0eb29303825c37c67ddc5d71b199bbc66c149712918c2a7c9261c7f6a2953d66)\]
+<table><tbody><tr><td><strong>Governance Update</strong></td><td><strong>Forum Quorum</strong></td><td><strong> Approval %</strong></td><td><strong>Timeline</strong></td></tr><tr><td>Major</td><td>63</td><td>70%</td><td>1 week</td></tr><tr><td>Minor</td><td>51</td><td>70%</td><td>1 week</td></tr><tr><td>Patch</td><td>40</td><td>70%</td><td>1 week</td></tr></tbody></table>
 
 ### Snapshot Vote
 
