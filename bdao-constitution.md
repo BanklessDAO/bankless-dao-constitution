@@ -124,6 +124,9 @@ Any unapproved candidate can gather feedback, improve their resume, and resubmit
 
 In order to create opportunities for alignment and transparency, the DAO operates in nested inspect-and-adapt loops. Starting with the largest and moving to the smallest, these are the following DAO-wide alignment and accountability loops. 
 
+## DAO Coordination
+BanklessDAO coordinates around Universal Coordinated Time (UTC). Wherever possible, meeting and event times are expressed in this timezone.
+
 ### Seasons
 
 Seasons are funding cycles (typically 3 months) intended to align the DAO’s collective energy to key objectives. These objectives are in the form of funded initiatives BANK token holders vote on before each season. Seasonal funding is largely dispersed through the Grants Committee.
