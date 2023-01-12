@@ -136,6 +136,9 @@ Funded projects are encouraged to provide progress updates every other week. Upd
 
 Weekly DAO-wide Community Calls are designed to align initiatives and surface needs. All guest passes and contributors can join on Discord and the stream is broadcast to Twitch and posted to [YouTube](https://www.youtube.com/channel/UCik2oWalCO3qpiGoMpl-c1g) for public viewing. 
 
+## DAO Coordination
+BanklessDAO coordinates around Universal Coordinated Time (UTC). Wherever possible, meeting and event times are expressed in this timezone.
+
 ## DAO Governance
 
 At BanklessDAO, decisions regarding governance, treasury, projects, and proposals are made through a democratic process. BANK holders ratify decisions through off-chain votes held on the voting software, [Snapshot](https://snapshot.org/). Any BANK holder can vote in a Snapshot. The more tokens a user has, the more voting power they possess.
