@@ -1,9 +1,7 @@
 ## **Title**: bDIP-02 : Coordinated Timing Across BanklessDAO
 
 **Scope**: Minor Change
-
 **Draft Author**: Rowan (chunz)
-
 **Working Group**: Operations Department
 
 ## BDIP SUMMARY
