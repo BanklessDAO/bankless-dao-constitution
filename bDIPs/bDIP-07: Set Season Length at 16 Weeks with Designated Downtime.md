@@ -1,4 +1,4 @@
-# **Title** bDIP-07: Set Season Length at 16 Weeks with Designated Downtime 
+# bDIP-07: Set Season Length at 16 Weeks with Designated Downtime 
 **Author**: Trewkat
 **Working Group**: Trewkat, links, HiroKennelly
 **Date**: February 13, 2023 12:00 PM
