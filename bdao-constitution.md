@@ -105,9 +105,9 @@ The grants treasury will be used to fund projects that are ready to start mid-se
 
 Grants Committee consists of 5-7 members along with a multisig with all committee members as signers. The Committee has a quorum with five members but is otherwise responsible for its own operations. The Committee cannot change the application process to be a Committee member without a snapshot vote and is encouraged to accept the DAO’s proposal template. The Grants Committee is required to be transparent and communicative with the DAO, such as access to Committee meetings and an opportunity to voice opinions and feedback.
 
-Grants Leads are key individuals responsible for organizing the program and ensuring that things move smoothly and efficiently. The lead will likely dedicate a significant amount of time to the program. There are two Grant Leads to ensure there is not a single point of failure. Grants Leads serve a 6-month term and can resign at any time. The committee will elect two Leads from within the group of 7 reviewers.
+Grants Leads are key individuals responsible for organizing the program and ensuring that things move smoothly and efficiently. The lead will likely dedicate a significant amount of time to the program. There are two Grant Leads to ensure there is not a single point of failure. Grants Leads serve a 2-season term and can resign at any time. The committee will elect two Leads from within the group of 7 reviewers.
 
-Grants Reviewers process applications, weigh in on discussions surrounding budget planning, ensure that the lead is acting in good faith and is effective in their role, and will operate a 4 of 7 multisig which disburses funds to grantees. The reviewers will also hold the program accountable to its goals and objectives and return any excess funds to the Bankless Treasury. Reviewers are likely to dedicate a smaller amount of time to the program. Grants Reviewers serve a 6-month term and can resign at any time.
+Grants Reviewers process applications, weigh in on discussions surrounding budget planning, ensure that the lead is acting in good faith and is effective in their role, and will operate a 4 of 7 multisig which disburses funds to grantees. The reviewers will also hold the program accountable to its goals and objectives and return any excess funds to the Bankless Treasury. Reviewers are likely to dedicate a smaller amount of time to the program. Grants Reviewers serve a 2-season term and can resign at any time.
 
 When there is a vacancy on the Grants Committee, there is a period where anyone can volunteer by submitting an application on the proposals section of Discourse that includes:
 
@@ -126,7 +126,7 @@ In order to create opportunities for alignment and transparency, the DAO operate
 
 ### Seasons
 
-Seasons are funding cycles (typically 3 months) intended to align the DAO’s collective energy to key objectives. These objectives are in the form of funded initiatives BANK token holders vote on before each season. Seasonal funding is largely dispersed through the Grants Committee.
+Seasons are funding cycles (each set at 16 weeks) which are intended to align the DAO’s collective energy to key objectives. These objectives are in the form of funded initiatives voted on by BANK token holders before each season. Between seasons, the DAO schedules designated ‘Gap Weeks’ and an ‘Annual Break’ in order to respect the need for contributors to rest. Seasonal funding is largely dispersed through the Grants Committee.
 
 ### Biweekly KPI Reports
 
