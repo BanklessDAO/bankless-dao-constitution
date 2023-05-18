@@ -97,6 +97,51 @@ Guilds are professional associations of subject matter experts focused on onboar
 
 While Guilds serve as talent pools, projects act as objective-based initiatives. They are product or service-oriented value streams designed to make an impact and accomplish some defined end. Anyone can start a project. Projects may seek funding by submitting proposals through the DAOs governance process. Each project has a project champion who is uniquely responsible to report and account for that project's status and expenditures. See: [Project List](https://www.notion.so/bankless/Projects-9e37997f29fa4df2b8b4e4284709403a)
 
+### BanklessDAO Vault Multi-Signature Wallet
+
+The BanklessDAO Vault multi-signature wallet (vault multisig) is the holder of DAO funds, and disburses BANK to DAO Organizational Units. It is managed by a team of seven BanklessDAO members, and requires four of the seven members to sign in order for any transaction to be executed.
+
+Vault multisig signers have the following rights and responsibilities:
+
+|Rights (can do)|Responsibilities (must do)|
+| --- | --- |
+|Can create transactions for consideration by other signers.|Must work to ensure the perpetuity of the DAO’s existence in alignment with the DAO’s mission, vision, and values.|
+|Can approve or reject transactions at their own discretion.|Must sign and execute transactions in a timely manner.|
+||Must vet all transactions to make sure that they align with agreed decisions.|
+||Must validate the individual transactions of mass payouts to ensure they are legitimate.|
+||Must monitor the vault multisig’s activity.|
+||Must manage access and permissions to the multisig.|
+||Must keep their own software and hardware secure and up-to-date.|
+|Can post proposals to the BanklessDAO Snapshot.org space.|Must vet Snapshot proposals to confirm compliance with established governance procedures.|
+||Must steward the process of moving proposals to Snapshot.|
+
+#### Vault Multisig Signer Elections
+
+To be considered for selection and to retain the role, vault multisig signers must meet the following criteria:
+
+1. Recognition as a Level 2 Contributor of BanklessDAO.
+2. Active membership of BanklessDAO for at least one year.
+3. A previously held leadership position in the DAO (equivalent to Guild Coordinator, Project Champion, Grants Committee).
+4. Experience as a signer on a multi-signature wallet.
+5. Current knowledge of BanklessDAO’s governance procedures.
+
+#### Elections have the following procedure:
+
+1. To kick off an election, any BanklessDAO member can post a [formal proposal](https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bdao-constitution.md#formal-proposals) to check the level of support to hold a vault multisig signer election. This proposal must have a poll which passes the [Minor quorum thresholds](https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bdao-constitution.md#formal-proposals).
+2. When the formal proposal reaches quorum, the member may then post a Forum post to gather candidates. In this post, candidates must provide evidence that they meet the eligibility requirements. This proposal must stay up for at least one week.
+3. After one week, the veracity of each candidate’s eligibility evidence must be validated by the member who posted the proposal. This member will then post the final candidate list in a comment on the proposal.
+4. The current vault multisig signers must then post a token-weighted poll on Snapshot with the list of candidates specified above as well as a list of the current vault multisig signers as options (barring any signer who wishes to step away from the role). This poll must stay open for at least one week.
+5. The seven candidates with the highest proportion of support will become the new vault multisig signers. The current signers must take the steps to add/remove members as needed to ensure the group of vault multisig signers reflects the will of the DAO.
+
+#### Removal of Vault Multisig Signers
+
+Vault multisig signers can be removed if:
+
+1. a vault multisig signer has violated any of the mandated responsibilities.
+2. any member in the DAO gathers consensus via Forum on the no-confidence state of a vault multisig signer or the vault multisig signers as a whole.
+
+There is no term limit for vault multisig signers, however continuation in the role is subject to the community vote.
+
 ### Grants Committee
 
 This committee is responsible to vet groups seeking midseason funding and consequently ensure funded entities provide ongoing transparency into the state of their development. 
