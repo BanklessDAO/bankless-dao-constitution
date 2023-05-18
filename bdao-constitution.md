@@ -1,6 +1,6 @@
 # **BanklessDAO Constitution & Community Handbook**
 
-Version 1.2.2
+Version 1.3.2
 
 ## Preamble
 
