@@ -1,6 +1,6 @@
 # **BanklessDAO Constitution & Community Handbook**
 
-Version 1.3.2
+Version 1.4.2
 
 ## Preamble
 
@@ -62,7 +62,7 @@ Guests are designated by their “Guest Pass” role tag. Guest pass holders are
 
 ### L1 - Members
 
-Full DAO members are those who have accumulated the requisite 35,000 BANK and are authenticated in the Discord server. The benefits of L1s include access to additional Discord channels and no longer needing to renew the guest pass. 
+Full DAO members are those who have accumulated the requisite 35,000 BANK and are authenticated in the Discord server. The benefits of L1s include access to additional Discord channels and no longer needing to renew the guest pass. DAO Members that mint the preset tlBANK will also be given L1 Membership with the included benefits. Only the tlBANK minting address receives the L1 access.
 
 ### L2 - Contributors
 
