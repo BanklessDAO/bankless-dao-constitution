@@ -81,10 +81,10 @@ Level 2 Contributors (L2) are verified L1 Members who have also earned special r
 2.  A Level 2 Contributor must second the nomination for it to proceed to a vote.
 3.  A 7-day poll will take place in the Discord “polls” channel to vote on whether to make the Member a Contributor. All verified Discord roles may vote.
 4.  The poll must include the following information:
-        Nominee:  
-        Nominator:  
-        Seconded By:  
-        Reasons for Nomination:
+    * Nominee:  
+    * Nominator:  
+    * Seconded By:  
+    * Reasons for Nomination:
 
 ### 3.2.4 Level 3: Whales
 
