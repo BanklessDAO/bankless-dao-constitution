@@ -269,7 +269,7 @@ General Proposals should still seek soft consensus through Discord discussions a
 
 Some proposals may progress to a token-weighted Snapshot vote.
 
-Snapshot proposals run for seven days and require ≥66% approval (with the exception of those initiated to remove a Grants Committee member as per section 4.6.4).
+Snapshot proposals run for seven days and require ≥66% approval (with the exception of those initiated to remove a Grants Committee member as per Section 4.6.4).
 
 For approved Grant Proposals, BanklessDAO vault multisig signers will be prompted to initiate the required transaction/s.
 
@@ -301,7 +301,7 @@ Project funding proposals must include a detailed budget for the next season and
 
 ## 7.2 Grants
 
-Groups seeking funding for the first time or outside the seasonal budgeting process will be directed to the Grants Committee upon successfully passing their Forum proposal as per Section 6.1.3. The Grants Committee is responsible for evaluating these funding proposals and has the liberty to approve or deny the requests.
+Groups seeking funding for the first time or outside the seasonal budgeting process will be directed to the Grants Committee upon successfully passing their Forum proposal as per Section 6.2. The Grants Committee is responsible for evaluating these funding proposals and has the liberty to approve or deny the requests.
 
 ## 7.3 Intra-team Compensation
 
