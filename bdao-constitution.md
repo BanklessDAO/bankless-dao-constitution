@@ -1,6 +1,8 @@
 
 # BanklessDAO Constitution
 
+Version 2.4.2
+
 ## Preamble
 
 The BanklessDAO Constitution is a living yet lasting record of the DAO’s purpose, values, and decision-making processes. BanklessDAO is greater than the sum of its parts, and as such the Constitution serves our community as the agreed set of standard procedures by which the DAO as a whole will operate, while also recognizing the sovereignty of DAO organizational units.
