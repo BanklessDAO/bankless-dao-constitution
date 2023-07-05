@@ -1,246 +1,316 @@
-# **BanklessDAO Constitution & Community Handbook**
 
-Version 1.4.2
+# BanklessDAO Constitution
+
+Version 2.4.2
 
 ## Preamble
 
-This document represents BanklessDAO’s values, mission, structure, processes, and governance according to the best of our community’s ability to capture it. It is the codification of our community operating system and is meant to serve, rather than constrain its members. 
+The BanklessDAO Constitution is a living yet lasting record of the DAO’s purpose, values, and decision-making processes. BanklessDAO is greater than the sum of its parts, and as such the Constitution serves our community as the agreed set of standard procedures by which the DAO as a whole will operate, while also recognizing the sovereignty of DAO organizational units.
 
-Not every item listed herein has a readily available citation, as some of these processes were decided within Discord but it's our intention to use this document as the canonical basis or “bible” for discussions regarding governance going forward. Like our community itself, it will always be a work in progress. As the community changes, so should the manifestation of those changes in daily DAO life be captured and reflected in this document. It is our hope that this textually centered approach to governance materially improves our collective ability to precisely communicate, make decisions, and onboard new members. 
+Like our community itself, the Constitution will always be a work in progress. As the community changes, so too should the manifestation of those changes in daily DAO life be captured and reflected in this document.
 
-## Introduction
+Every word has been added as part of the governance processes detailed below, and every word can be changed using those same processes. We hope that this leads to a resilient and inclusive method of coordination, worthy of the decentralized ethos.
 
-BanklessDAO was founded by David Hoffman and Ryan Sean Adams on May 4th, 2021, when they airdropped BANK tokens to each Bankless premium subscriber. Following the true ethos of decentralization, they stepped back and let the DAO take shape. While their media company, Bankless LLC, continues to operate as its own media node, the Bankless brand is propagated through the DAO and its sub-DAOs. Now, the Bankless ecosystem as a whole creates user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture.
+# Article 1: Introducing BanklessDAO
 
-## The Bankless Movement
+## 1.1 The Genesis of BanklessDAO
+
+BanklessDAO was founded by David Hoffman and Ryan Sean Adams on May 4, 2021, when they airdropped BANK tokens to each Bankless Premium Subscriber. While their media company, BanklessHQ, continues to operate as its own media node, the Bankless message is spread by the DAO and its members.
+
+Details about the [DAO’s formation](https://medium.com/bankless-dao/announcing-bankless-dao-133220f5efd8) and the [Genesis Proposal](https://medium.com/bankless-dao/bankless-dao-genesis-proposal-18c24caf4485), which proposed allocation of BANK tokens to BanklessHQ and Genesis members, were posted to the BanklessDAO Medium platform.
+
+## 1.2 The Bankless Movement
 
 Bankless is a movement for pioneers seeking liberation from the tyranny of the traditional financial system. Going Bankless means adopting decentralized, permissionless, and censorship-resistant technology. Through these means, we will achieve financial self-sovereignty, security, and prosperity.
 
-We seek new ways to build wealth, solve human coordination problems, create culture, and develop cutting-edge thought-leadership in the crypto space. Going Bankless means taking control of your financial health by adopting decentralized and permissionless money systems. 
+We seek new ways to build wealth, solve human coordination problems, create culture, and develop cutting-edge thought-leadership in the crypto space.
 
-Bankless is the movement educating the world on how to do it. 
+# Article 2: Purpose
 
-## BanklessDAO
+## 2.1 The Purpose of BanklessDAO
 
-The BanklessDAO is a decentralized autonomous organization that acts as a steward of the Bankless Movement, progressing the world towards a future of greater freedom. BanklessDAO is a community of passionate Web3 thought-leaders who aim to educate new users, produce written and audio media, build DAO tooling, provide consulting services, develop Web3 scholarship, and create a social and creative home base for anyone in Web3. We’re so much more than a social DAO—we’re a shipping, building, and innovating DAO. See: [The Genesis Proposal](https://snapshot.org/#/banklessvault.eth/proposal/QmdoixPMMT76vSt6ewkE87JZJywS1piYsGC3nJJpcrPXKS).
+BanklessDAO is a community that acts as a steward of the Bankless movement, progressing the world towards a future of greater freedom.
 
-### Mission
+## 2.2 Mission Statement
 
-We will help the world go Bankless by creating user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture. The nodes in our growing ecosystem collaborate to create inroads for people to discover, use, learn and enjoy the benefits of Web3. Everyone falls down the rabbit hole in a different way—we provide those diverse paths. 
+We will help the world go Bankless by creating user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture. We create pathways for people to discover, use, learn, and enjoy the benefits of web3.
 
-### Vision
+## 2.3 Vision Statement
 
-Our Vision is to make financial independence, decentralized work, and creative freedom accessible to all. We work to build a world where anyone with an internet connection has access to the tools needed to achieve financial independence. We want everyone to be able to open a computer, find a DAO, start working, and get paid. We want to enable visionaries to unlock their true creative freedom with the power of Web3. 
+Our vision is to live in a world where anyone with an internet connection has access to the financial tools needed to achieve financial independence.
 
-### Values
+## 2.4 BanklessDAO Values
 
-#### Education
+### 2.4.1 Education
 
 We learn from each other. We seek to become a trusted guide that empowers people all over the globe to adopt decentralized finance by sharing accurate, truthful, and objective information.
 
-#### Integrity
+### 2.4.2 Integrity
 
 We operate transparently and build trust through radically public discourse and financial auditability.
 
-#### Decentralized Governance
+### 2.4.3 Decentralized Governance
 
 We put decision-making into the hands of the collective. We create legitimacy through an environment where the best ideas win.
 
-#### Culture
+### 2.4.4 Culture
 
 We reward action and embrace risk. We empower our community to continually drive new initiatives by providing a space to self-organize and quickly move from idea to action.
 
-\[Background on Mission, Vision, & Values [here](https://forum.bankless.community/t/mission-vision-and-values/613) and [here](https://bankless.notion.site/Mission-Vision-and-Values-05d66a9089d643d4981ffcad9e446163)\]
+# Article 3: Membership
 
-## Membership Levels
+## 3.1 BANK Token Holders
 
-The collective body of BanklessDAO Discord users is referred to as the BanklessDAO community and is further subdivided into various levels. Membership levels are determined using community-wide roles in Discord. While these roles may grant owners certain access and admin privileges, they do not constitute a hierarchical system granting authority over others. They are social signals designed to aid in communication and coordination. All non-members have two ways to join the DAO. They can either hold 35,000 BANK tokens in their ETH wallet or get a free temporary guest pass by completing our onboarding process. 
+Any person who holds BANK tokens in an ETH wallet may vote on BanklessDAO Snapshot proposals. It is necessary to join the BanklessDAO Discord to access further community infrastructure.
 
-### Guests
+## 3.2 Discord Membership Levels
 
-Guests are designated by their “Guest Pass” role tag. Guest pass holders are granted 14 days to investigate, participate, and test the community waters. Individuals who desire to move beyond the guest status do so by confirming that they possess at least 35,000 BANK tokens at a single address.
+Discord membership levels are assigned using role tags. While these roles may grant owners certain access and admin privileges, they do not constitute a hierarchical system granting authority over others. They are social signals designed to aid in communication and coordination.
 
-### L1 - Members
+### 3.2.1 Guests
 
-Full DAO members are those who have accumulated the requisite 35,000 BANK and are authenticated in the Discord server. The benefits of L1s include access to additional Discord channels and no longer needing to renew the guest pass. DAO Members that mint the preset tlBANK will also be given L1 Membership with the included benefits. Only the tlBANK minting address receives the L1 access.
+Guests are designated by their “Guest Pass” role tag. After completing an onboarding process, Guest Pass holders are granted 14 days to investigate, participate, and test the community waters. Individuals who desire to move beyond the guest status do so by confirming that they hold the required amount of BANK for Level 1 Membership.
 
-### L2 - Contributors
+### 3.2.2 Level 1: Members
 
-Level 2 community members possess at least 35,000 BANK and have earned special recognition from their peers as valuable members of the DAO. L2 members are expected to be actively interested and engaged in governance and the overall health of the DAO as a community. Promotion to L2 status occurs through the following process:
+Level 1 Members (L1) are those who have accumulated the requisite 35,000 BANK and are authenticated as such in the Discord server. DAO Members that mint the preset tlBANK will also be given L1 Membership with the included benefits. Only the tlBANK minting address receives the L1 access.
 
-1.  Any Level 1 can nominate their peer to join Level 2 in the "[polls](https://discord.com/channels/834499078434979890/842815095221387265)" Discord channel. You cannot nominate yourself. You must be a Level 1 to qualify for Level 2.
-2.  Any Level 2 Contributor must second your nomination to get to the voting stage.
-3.  A 48-hour poll will take place to vote on whether to make the member a Contributor. Anyone may vote. See: [How to Use the Poll Bot](https://www.notion.so/bankless/Discord-How-to-use-the-Poll-Bot-sesh-fyi-1c159558c1454900a111da89198629ff)
+### 3.2.3 Level 2: Contributors
+
+Level 2 Contributors (L2) are verified L1 Members who have also earned special recognition from their peers as valuable and committed members of the DAO. L2 members are expected to be actively interested and engaged in governance and the overall health of the DAO community. Promotion to L2 status occurs through the following process:
+
+1.  Any Level 1 Member can nominate a Level 1 Member to become a Level 2 Contributor in the "hype-and-recognition" Discord channel. A Member may not nominate themselves.
+2.  A Level 2 Contributor must second the nomination for it to proceed to a vote.
+3.  A 7-day poll will take place in the Discord “polls” channel to vote on whether to make the Member a Contributor. All verified Discord roles may vote.
 4.  The poll must include the following information:
-    1.  Nominee:
-    2.  Nominator:
-    3.  Seconded By:
-    4.  Reasons for nomination
+    * Nominee:  
+    * Nominator:  
+    * Seconded By:  
+    * Reasons for Nomination:
 
-### L3 - Whales
+### 3.2.4 Level 3: Whales
 
-Level 3 community members are members holding more than 150k BANK. The membership level grants members access to additional Discord channels.  
+Level 3 Whales (L3) are verified L1 Members who hold more than 150k BANK. This membership level grants members access to additional Discord channels.
 
-### L4 - Liquidity Providers
+### 3.2.5 Level 4: Liquidity Providers
 
-Level 4 community members who have provided Liquidity for the Eth/Bank pair, representing at least 150k Bank and its equivalent pairing of ETH. This membership level grants members access to additional Discord channels.  
+Level 4 Liquidity Providers (L4) are verified L1 Members who have provided liquidity for the ETH/BANK pair, representing at least 150k BANK and its equivalent pairing of ETH. This membership level grants members access to additional Discord channels.
 
-## DAO Organizational Units
+# Article 4: DAO Organizational Units
 
-The DAO is a multicellular network of organizational units united by our shared mission, vision, and values. These units are self-managed, possess their own internal multi-signature wallets, and often develop their own internal governance processes. Three of these organizational units deserve special attention given their prominence in the current org structure. These are Guilds, Projects, and the Grants Committee. See the DAOs composition on this [Sobol map](https://sobol.io/d/public/banklessdao/circles). 
+## 4.1 Overview
 
-### Guilds
+The DAO is a network of self-sovereign organizational units united by our shared mission, vision, and values. These units possess their own multi-signature wallets and have their own governance processes. The following sections provide detail on the creation and operation of key organizational units.
 
-Guilds are professional associations of subject matter experts focused on onboarding, education, and community building. This may be through shared learning events or through providing specialized services within and without the DAO. Individuals responsible for the smooth operation of guilds are referred to as guild coordinators. Guilds elect their own coordinators and any other internal roles as needed on a seasonal basis. New guilds may be created (via proposal) based on current interest and perceived value to the DAO. See: [Guild List](https://www.notion.so/bankless/BanklessDAO-82ba81e7da1c42adb7c4ab67a4f22e8f)
+## 4.2 Departments
 
-### Projects
+Departments are the essential operational units of BanklessDAO. Within a Department there may be several related work streams. New Departments may be created and seek funding via the proposal framework (Section 6.2).
 
-While Guilds serve as talent pools, projects act as objective-based initiatives. They are product or service-oriented value streams designed to make an impact and accomplish some defined end. Anyone can start a project. Projects may seek funding by submitting proposals through the DAOs governance process. Each project has a project champion who is uniquely responsible to report and account for that project's status and expenditures. See: [Project List](https://www.notion.so/bankless/Projects-9e37997f29fa4df2b8b4e4284709403a)
+## 4.3 Guilds
 
-### BanklessDAO Vault Multi-Signature Wallet
+Guilds are focused on onboarding, education, and community building. New Guilds may be created and seek funding via the proposal framework (Section 6.2).
+
+## 4.4 Projects
+
+Projects may share revenue, products, or services with the DAO and its members. Any DAO community member can start a project. Projects may seek funding via the proposal framework (Section 6.2). Each funded project must nominate a project champion who is responsible to report and account for that project's status and expenditures.
+
+## 4.5 BanklessDAO Vault Multi-Signature Wallet
 
 The BanklessDAO Vault multi-signature wallet (vault multisig) is the holder of DAO funds, and disburses BANK to DAO Organizational Units. It is managed by a team of seven BanklessDAO members, and requires four of the seven members to sign in order for any transaction to be executed.
 
+### 4.5.1 Rights and Responsibilities
+
 Vault multisig signers have the following rights and responsibilities:
 
-|Rights (can do)|Responsibilities (must do)|
-| --- | --- |
-|Can create transactions for consideration by other signers.|Must work to ensure the perpetuity of the DAO’s existence in alignment with the DAO’s mission, vision, and values.|
-|Can approve or reject transactions at their own discretion.|Must sign and execute transactions in a timely manner.|
-||Must vet all transactions to make sure that they align with agreed decisions.|
-||Must validate the individual transactions of mass payouts to ensure they are legitimate.|
-||Must monitor the vault multisig’s activity.|
-||Must manage access and permissions to the multisig.|
-||Must keep their own software and hardware secure and up-to-date.|
-|Can post proposals to the BanklessDAO Snapshot.org space.|Must vet Snapshot proposals to confirm compliance with established governance procedures.|
-||Must steward the process of moving proposals to Snapshot.|
+| Rights (can do) | Responsibilities (must do) |
+|--|--|
+| <ul><li>Can create transactions for consideration by other signers.</li><li>Can approve or reject transactions at their own discretion.</li></ul> | <ul><li>Must work to ensure the perpetuity of the DAO’s existence in alignment with the DAO’s mission, vision, and values. </li><li>Must sign and execute transactions in a timely manner.</li><li>Must vet all transactions to make sure that they align with agreed decisions.</li><li>Must validate the individual transactions of mass payouts to ensure they are legitimate.</li><li>Must monitor the vault multisig’s activity.</li><li>Must manage access and permissions to the multisig.</li><li>Must keep their own software and hardware secure and up-to-date.</li></ul> |
+| <ul><li>Can post proposals to the BanklessDAO Snapshot.org space.</li></ul>  | <ul><li>Must vet Snapshot proposals to confirm compliance with established governance procedures.</li><li>Must steward the process of moving proposals to Snapshot.</li></ul>  |
+    
 
-#### Vault Multisig Signer Elections
+
+### 4.5.2 Vault Multisig Signer Elections
 
 To be considered for selection and to retain the role, vault multisig signers must meet the following criteria:
 
-1. Recognition as a Level 2 Contributor of BanklessDAO.
-2. Active membership of BanklessDAO for at least one year.
-3. A previously held leadership position in the DAO (equivalent to Guild Coordinator, Project Champion, Grants Committee).
-4. Experience as a signer on a multi-signature wallet.
-5. Current knowledge of BanklessDAO’s governance procedures.
+-   Recognition as a Level 2 Contributor of BanklessDAO.
+-   Active membership of BanklessDAO for at least one year.
+-   A previously held leadership position in the DAO (equivalent to Guild Coordinator, Project Champion, Grants Committee)    
+-   Experience as a signer on a multi-signature wallet.
+-   Current knowledge of BanklessDAO’s governance procedures.   
 
-#### Elections have the following procedure:
+Elections have the following procedure:
 
-1. To kick off an election, any BanklessDAO member can post a [formal proposal](https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bdao-constitution.md#formal-proposals) to check the level of support to hold a vault multisig signer election. This proposal must have a poll which passes the [Minor quorum thresholds](https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bdao-constitution.md#formal-proposals).
-2. When the formal proposal reaches quorum, the member may then post a Forum post to gather candidates. In this post, candidates must provide evidence that they meet the eligibility requirements. This proposal must stay up for at least one week.
-3. After one week, the veracity of each candidate’s eligibility evidence must be validated by the member who posted the proposal. This member will then post the final candidate list in a comment on the proposal.
-4. The current vault multisig signers must then post a token-weighted poll on Snapshot with the list of candidates specified above as well as a list of the current vault multisig signers as options (barring any signer who wishes to step away from the role). This poll must stay open for at least one week.
-5. The seven candidates with the highest proportion of support will become the new vault multisig signers. The current signers must take the steps to add/remove members as needed to ensure the group of vault multisig signers reflects the will of the DAO.
+1.  To kick off an election, any BanklessDAO member can post a formal proposal to check the level of support to hold a vault multisig signer election. This proposal must have a poll which passes the Minor quorum thresholds.
+    
+2.  When the formal proposal reaches quorum, the member may then post a Forum post to gather candidates. In this post, candidates must provide evidence that they meet the eligibility requirements. This proposal must stay up for at least one week.
+    
+3.  After one week, the veracity of each candidate’s eligibility evidence must be validated by the member who posted the proposal. This member will then post the final candidate list in a comment on the proposal.
+    
+4.  The current vault multisig signers must then post a token-weighted poll on Snapshot with the list of candidates specified above as well as a list of the current vault multisig signers as options (barring any signer who wishes to step away from the role). This poll must stay open for at least one week.
+    
+5.  The seven candidates with the highest proportion of support will become the new vault multisig signers. The current signers must take the steps to add/remove members as needed to ensure the group of vault multisig signers reflects the will of the DAO.
+    
 
-#### Removal of Vault Multisig Signers
+### 4.5.3 Removal of Vault Multisig Signers
 
 Vault multisig signers can be removed if:
 
-1. a vault multisig signer has violated any of the mandated responsibilities.
-2. any member in the DAO gathers consensus via Forum on the no-confidence state of a vault multisig signer or the vault multisig signers as a whole.
+1.  a vault multisig signer has violated any of the mandated responsibilities.
+    
+2.  any member in the DAO gathers consensus via Forum on the no-confidence state of a vault multisig signer or the vault multisig signers as a whole.
+    
 
 There is no term limit for vault multisig signers, however continuation in the role is subject to the community vote.
 
-### Grants Committee
+## 4.6 Grants Committee
 
-This committee is responsible to vet groups seeking midseason funding and consequently ensure funded entities provide ongoing transparency into the state of their development. 
+### 4.6.1 Grants Committee Purpose
 
-The grants treasury will be used to fund projects that are ready to start mid-season and can’t or shouldn’t wait for the next season for funding. The treasury can also fund projects that don’t align with the current DAO priorities but align with its mission and values and warrant funding.
+This Committee is responsible for vetting all funding proposals and ensuring funded organizational units provide ongoing transparency. Grants Committee distributes all project funding from a multisig which operates with all committee members as signers.
 
-Grants Committee consists of 5-7 members along with a multisig with all committee members as signers. The Committee has a quorum with five members but is otherwise responsible for its own operations. The Committee cannot change the application process to be a Committee member without a snapshot vote and is encouraged to accept the DAO’s proposal template. The Grants Committee is required to be transparent and communicative with the DAO, such as access to Committee meetings and an opportunity to voice opinions and feedback.
+### 4.6.2 Grants Committee Operations
 
-Grants Leads are key individuals responsible for organizing the program and ensuring that things move smoothly and efficiently. The lead will likely dedicate a significant amount of time to the program. There are two Grant Leads to ensure there is not a single point of failure. Grants Leads serve a 2-season term and can resign at any time. The committee will elect two Leads from within the group of 7 reviewers.
+The Committee has a quorum with five members but is otherwise responsible for its own operations. The Grants Committee is required to be transparent and communicative with the DAO; their meetings should be accessible to DAO members and give organizational units an opportunity to provide feedback.
 
-Grants Reviewers process applications, weigh in on discussions surrounding budget planning, ensure that the lead is acting in good faith and is effective in their role, and will operate a 4 of 7 multisig which disburses funds to grantees. The reviewers will also hold the program accountable to its goals and objectives and return any excess funds to the Bankless Treasury. Reviewers are likely to dedicate a smaller amount of time to the program. Grants Reviewers serve a 2-season term and can resign at any time.
+The Committee will elect two Leads from within the group who are responsible for the efficient operation of the Committee.
 
-When there is a vacancy on the Grants Committee, there is a period where anyone can volunteer by submitting an application on the proposals section of Discourse that includes:
+### 4.6.3 Grants Committee Multisig
 
-*   Discord handle
-*   Reason for applying
-*   Qualifications
-*   Sponsor(s) (i.e. someone who will second your nomination)
+The Grants Committee Multisig receives funds from the BanklessDAO vault multisig and disburses these funds in accordance with approved Grant Proposals. The Grants Committee requires at least four signers to execute a transaction from the Grants Committee multisig, with all members of the Grants Committee as designated signers.
 
-The submission period will remain open for one week before the end of the current season, after which submissions will be taken to Snapshot. Submissions can be made here. One week prior to the end of the current season, applications will be uploaded to Snapshot and decided on by a weighted snapshot vote, and the highest four voted applications will be elected into the Grants Committee. 
+### 4.6.4 Grants Committee Election Process
 
-Any unapproved candidate can gather feedback, improve their resume, and resubmit for future vacancies. Committee members can be recalled with a 51%+ Snapshot vote. Committee members can leave the Committee at any time by submitting a written resignation note to the Committee. See: [Grants Committee Notion Page](https://www.notion.so/bankless/Grants-Committee-44eb039915ff47128e98e39696d39109)
+Committee members serve a 2-season term and can resign at any time. When there are vacancies on the Grants Committee, an election will be held. The Committee will initiate an election via Forum post; any Level 1 Member may self-nominate by replying to the Forum post with the following information:
 
-## DAO Cycles
+-   Discord handle
+-   Reason for applying
+-   Qualifications
+-   Sponsor(s) (i.e. someone who will second your nomination)
 
-In order to create opportunities for alignment and transparency, the DAO operates in nested inspect-and-adapt loops. Starting with the largest and moving to the smallest, these are the following DAO-wide alignment and accountability loops. 
+The nomination period will remain open for one week. Following this, BANK token holders elect Committee members through a token-weighted Snapshot vote. The candidate with the highest number of votes will fill a vacant position first, followed by the candidate with the next highest votes if another position is vacant, and so on.
 
-### Seasons
+Any unelected candidate can resubmit for future vacancies. Committee members can be removed with a Snapshot vote which reaches ≥51% approval. Committee members can leave the Committee at any time by submitting a written resignation to the Committee.
 
-Seasons are funding cycles (each set at 16 weeks) which are intended to align the DAO’s collective energy to key objectives. These objectives are in the form of funded initiatives voted on by BANK token holders before each season. Between seasons, the DAO schedules designated ‘Gap Weeks’ and an ‘Annual Break’ in order to respect the need for contributors to rest. Seasonal funding is largely dispersed through the Grants Committee.
+The Committee cannot change the application process to be a Committee member without a Snapshot vote.
 
-### Biweekly KPI Reports
+# Article 5: DAO Cycles
 
-Funded projects are encouraged to provide progress updates every other week. Updates can be listed on project wiki pages, via Forum posts, or through weekly Community Calls. The update should include funding used; updates on KPIs and progress towards goals; and potential blockers.
+## 5.1 Overview
 
-### Weekly Community Calls
+BanklessDAO operates with a cadence of three seasons per year and aligns most activity to seasons.
 
-Weekly DAO-wide Community Calls are designed to align initiatives and surface needs. All guest passes and contributors can join on Discord and the stream is broadcast to Twitch and posted to [YouTube](https://www.youtube.com/channel/UCik2oWalCO3qpiGoMpl-c1g) for public viewing. 
+## 5.2 Seasons
 
-## DAO Coordination
+Seasons are funding cycles (each set at 16 weeks) which are intended to align the DAO’s collective energy. Between seasons, the DAO schedules designated ‘Gap Weeks’ and an ‘Annual Break’ in order to respect the need for contributors to rest. Teams within the DAO will have the ability to plan for budgeting and operational needs for these periods and may decide for themselves which activities should continue through breaks, if any.
+
+## 5.3 DAO Coordination
+
 BanklessDAO coordinates around Universal Coordinated Time (UTC). Wherever possible, meeting and event times are expressed in this timezone.
 
-## DAO Governance
+# Article 6: Governance
 
-At BanklessDAO, decisions regarding governance, treasury, projects, and proposals are made through a democratic process. BANK holders ratify decisions through off-chain votes held on the voting software, [Snapshot](https://snapshot.org/). Any BANK holder can vote in a Snapshot. The more tokens a user has, the more voting power they possess.
+## 6.1 DAO Governance Overview
 
-While some funding decisions are formally ratified through Snapshot, most other routine decision-making happens informally in our Discord channels, our Forum posts, and our voice rooms through the following increasing levels of consensus.
+At BanklessDAO, decisions are made through a collaborative, iterative process. Members can introduce and pass proposals with DAO support. These proposals usually go through cycles of consensus and improvement, growing the support base with each iteration.
 
-### Gauging Support
+The process of gaining initial consensus typically begins with discussions and polls between a few people in Discord channels. Members can then introduce a temp check or proposal on the DAO Forum to gather additional support, and may adjust the proposal based on feedback. Grant and Governance Proposals each have defined quorum and approval thresholds and when these are met, the proposal may be moved to Snapshot to be voted on by BANK token holders.
 
-Governance starts with soft consensus and progresses towards formal consensus through three stages. The first stage is to gauge support from the community via the Discord server. This can happen through polls in the dedicated “poll” channel. Polls should include detailed descriptions of the issue at hand and allow for varied options beyond a basic yes or no. E.g. “Like the idea but needs improvement” or "Keep things the way they are.”
+This Constitution concerns DAO-wide governance. DAO organizational units have their own governance policies and procedures which are beyond the scope of this Constitution.
 
-### Formal Proposals
+## 6.2 Proposal Framework
 
-If the community has expressed support and interest in the previous step, the next step is to draft a formal proposal. Proposals fall into one of two categories and correspond to the following templates:
+### 6.2.1 Types of Proposals
 
-1.  [Grants Request](https://www.notion.so/bankless/Bankless-DAO-Formal-Proposal-Template-c60d797ceb5b4d0daceb80f72bb1ed2e)
-2.  [Improvement Proposals (bDIP)](https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bDIP-template.md)
+There are three types of proposals:
 
-As the names suggest, the Grants Request proposal template should be used to request funds and the bDIP template should be used to propose changes to the contents of this document. Approved bDIPs result in official changes to this handbook and redistribution to the community with appropriately updated semantic [versioning numbering](https://www.baeldung.com/cs/semantic-versioning) where:  
+-   Grant Proposals request DAO treasury (vault) resources.
+    
+-   Governance Proposals request changes to the BanklessDAO Constitution.
+    
+-   General Proposals do not involve either a request for funding or a change to the Constitution. They include but are not limited to signaling proposals (e.g. seasonal specifications), in-kind partnerships, and co-branding agreements.
+    
 
-*   Major = Changes incompatible with previous versions \[X.y.z\]
-*   Minor = Changes that expand but remain compatible with previous versions \[x.Y.z\]
-*   Patch = Clarifying or grammatical changes that don’t materially alter substance \[x.y.Z\]
+### 6.2.2 BanklessDAO Forum
 
-![](https://lh4.googleusercontent.com/vHrlR4BgodWXr10PyV-0px07X4h4yLpJ-8JEst3LQYrSx7lFb6tvfPMQbbUwjBBvRFpMLEpV9KRBRWMF3S_exAKIa6bN1gjNmDP2DmGDViW7_jXjEyQKkGvfKa4MbQpwGB2AB1j4wCJcOHF1G18)
+All proposals must be posted on the BanklessDAO Forum under the appropriate category. To maximize transparency, proposal authors may also respond to comments on the Forum and hold a roundtable at Community Calls to discuss the details.
 
-Formal proposals should be posted on the [BanklessDAO Forum](https://forum.bankless.community/) under the appropriate category and feedback and comments should be responded to by proposal authors. To maximize visibility and transparency, proposal authors should also be available in Community Calls to discuss the details of the proposals under consideration. 
+Forum proposal votes are one vote per user and are not token weighted.
 
-Proposal votes are one vote per user and are not token-weighted. Grant proposals must meet the quorum requirements set by the Grants Committee (available on their [Notion page](https://www.notion.so/bankless/Grants-Committee-Procedures-4e2c62bb890d47d2bdba12adee27fce8)), which may be adjusted seasonally at their discretion.
+#### 6.2.2.1 Grant Proposals
 
-Governance quorums are listed below.
+The appropriate Grant Proposal template must be used to request funds via the Grants Committee and posted under the Grants/Funding category on the Forum.
 
-<table><tbody><tr><td><strong>Governance Update</strong></td><td><strong>Forum Quorum</strong></td><td><strong> Approval %</strong></td><td><strong>Timeline</strong></td></tr><tr><td>Major</td><td>63</td><td>70%</td><td>1 week</td></tr><tr><td>Minor</td><td>51</td><td>70%</td><td>1 week</td></tr><tr><td>Patch</td><td>40</td><td>70%</td><td>1 week</td></tr></tbody></table>
+Grant Proposals must meet the quorum requirements set by the Grants Committee (available in [Notion](https://bankless.notion.site/Committee-Procedures-4e2c62bb890d47d2bdba12adee27fce8)), which may be adjusted seasonally at their discretion.
 
-### Snapshot Vote
+#### 6.2.2.2 Governance Proposals
 
-The final step in the governance process is a Snapshot vote. Snapshot is an off-chain token voting tool. If a proposal has met the required quorum and approval threshold on the Forum, it will progress to a DAO-wide Snapshot vote. Snapshot proposals run for 7 days and require >66% approval. If the passing proposal is a Grants Request, DAO treasury multi-signers will be prompted to initiate the transaction in accordance with the passed proposal request. If the passing proposal is a bDIP, OpsGuild will be prompted to update the Constitution and Community Handbook source in version control and a new version of the Handbook will be made available to the community. 
+The [bDIP template](https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bDIP-template.md) is used to propose changes to the Constitution and the proposal is then posted to the Governance category.
 
-## Funding
+There are three levels of Constitutional change.
 
-Funds are released from this treasury in one of three ways: Seasonal budgets, Mid-season grants, and through monthly community-wide Coordinape rounds. 
+-   Major: there is a change in rights, responsibilities, or procedures.  
 
-### Seasonal Budgets
+-   Minor: there is a change to the wording for clarification purposes only; there is no change in rights, responsibilities, or procedures. 
 
-Before new seasons begin, all previously funded guilds and projects must submit a funding proposal to the forum for the Grants Committee to review. Funding proposals that pass the Grants Committee review process are packaged together in a single seasonal budget Snapshot vote. If this budget is approved then the DAO multi-signers are responsible for issuing disbursements in line with the approved budget.
+-   Patch: wording changes to correct typographical errors.
+    
 
-### Mid-Season Grants
+Governance Proposals must meet the quorum requirements listed below.
+| Constitutional Change Level | Forum Quorum |   Approval % | Timeline |
+|--|--|--|--|
+| Major | 63 | 70% | 1 week |
+| Minor | 51 | 70% | 1 week |
+| Patch | 40 | 70% | 1 week |
 
-Groups seeking funding over the course of a season will be directed to the Grants Committee upon successfully passing their Forum proposal. The Grants Committee is responsible to evaluate these requests and has the liberty to accept or reject these requests for funds. 
+#### 6.2.2.3 General Proposals
 
-### Monthly Coordinape
+General Proposals should still seek soft consensus through Discord discussions and polls before being posted to the BanklessDAO Forum under the General category.
 
-BanklessDAO runs a monthly Coordinape round for Guest Pass holders, L1s, and L2s to reward the community for continued growth and engagement. Community members are required to fill out a coordinape-request-form prior to the start of each round using the bot-commands channel on discord. Those who have successfully filled out the form are eligible to allocate GIVE tokens to their peers using the [Coordinape app](https://app.coordinape.com/) after the signup period ends and the allocation period starts. Members may decide to opt-out of rounds if they choose to do so.
+### 6.2.3 BanklessDAO Snapshot
 
-### Intrateam Compensation
+Some proposals may progress to a token-weighted Snapshot vote.
 
-BanklessDAO does not dictate how projects or guilds internally allocate their funds as long as the promised value or expected utility is being realized to the community. The free market mechanics of supply and demand along with individuals' personal proficiency and experience determine how goods and services are priced within the community just as they are without. 
+Snapshot proposals run for seven days and require ≥66% approval (with the exception of those initiated to remove a Grants Committee member as per Section 4.6.4).
 
-## Code of Conduct
+For approved Grant Proposals, BanklessDAO vault multisig signers will be prompted to initiate the required transaction/s.
 
-Every member of the BanklessDAO community is expected and is responsible to treat others with respect and dignity. We are a globally distributed community representing numerous cultures, languages, and time zones. It's our highest priority to be the most welcoming and inviting onboarding experience for Web3. To this end, we encourage any conflict to first be broached between involved persons. If this does not resolve the matter we encourage team champions or guild coordinators to help resolve the conflict. If this still doesn't resolve the matter, parties are encouraged to approach the Ombuds office to help resolve the dispute. Our unity and internal cohesion are essential prerequisites to accomplishing our mission.
+For approved Governance Proposals (bDIPs), the Governance Department will be prompted to update the Constitution.
+
+# Article 7: Funding
+
+Funds are released from the BanklessDAO Vault through seasonal budgets or grants.
+
+## 7.1 Seasonal Budgets
+
+Before new seasons begin, all previously funded DAO organizational units must submit a funding proposal to the Forum for the Grants Committee to review.
+
+Every seasonal funding proposal for previously funded units must describe progress made during the current season as well as plans for the next season.
+
+The Grants Committee has the discretion to approve or deny seasonal funding proposals. Seasonal funding proposals that pass the Grants Committee review process are packaged together in a single seasonal budget Snapshot vote. If this budget is approved then the BanklessDAO Vault multisig signers are responsible for issuing disbursements in line with the approved budget.
+
+### 7.1.1 Guild Funding
+
+Guild funding proposals must include a list of active members and a record of member activity. All active member calculations will be reviewed by the Grants Committee.
+
+### 7.1.2 Department Funding
+
+Department funding proposals must include a detailed accounting from the current season and a detailed budget for the next season.
+
+### 7.1.3 Project Funding
+
+Project funding proposals must include a detailed budget for the next season and a thorough description of actions taken to meet KPIs.
+
+## 7.2 Grants
+
+Groups seeking funding for the first time or outside the seasonal budgeting process will be directed to the Grants Committee upon successfully passing their Forum proposal as per Section 6.2. The Grants Committee is responsible for evaluating these funding proposals and has the liberty to approve or deny the requests.
+
+## 7.3 Intra-team Compensation
+
+BanklessDAO does not dictate how DAO organizational units distribute their funds but expects that the membership benefit or expected utility is being realized to the community.
+
+# Article 8: Code of Conduct
+
+Every member of the BanklessDAO community is expected to treat others with respect and dignity. We are a globally distributed community representing numerous cultures, languages, and time zones. It's our highest priority to provide a positive and inclusive web3 experience for all.
+
+To this end, we encourage community members to discuss conflict between themselves as the first step. If this does not resolve the matter we encourage team champions or guild coordinators to help resolve the conflict. If this still doesn't resolve the matter, parties are encouraged to approach the Ombuds Office to help resolve the dispute. Our unity and internal cohesion are essential prerequisites to accomplishing our mission.
