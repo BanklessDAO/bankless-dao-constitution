@@ -259,9 +259,15 @@ There are three levels of Constitutional change.
 Governance Proposals must meet the quorum requirements listed below.
 | Constitutional Change Level | Forum Quorum |   Approval % | Timeline |
 |--|--|--|--|
-| Major | 63 | 70% | 1 week |
-| Minor | 51 | 70% | 1 week |
-| Patch | 40 | 70% | 1 week |
+| Major | 30-day Average + (0.2 x 30-day Average) | 70% | 1 week |
+| Minor | 30-day Average | 70% | 1 week |
+| Patch | 30-day Average - (0.2 x 30-day Average) | 70% | 1 week |
+
+- All Forum quorum calculations are rounded to the nearest whole number
+- Any poll which has been live for at least 7 days will be used to calculate the quorum threshold.
+- If a Forum post includes more than one poll, each poll should be considered a separate datapoint
+- 30-day Average formula = Sum of votes / number of independent polls
+- The Governance Department is responsible for updating the quorum thresholds at the beginning of each month via a Forum post. bDIP proposers should refer to the latest available forum update for the appropriate quorum requirement
 
 #### 6.2.2.3 General Proposals
 
